@@ -2,6 +2,7 @@
 
 - **Demo:** [Rango en Cloud Run](https://rango-611681112050.us-central1.run.app)
 - **Artículo:** [Gemma o Qwen: cómo elegí un modelo de IA pequeño para una app que conoce tu salario](https://docs.google.com/document/d/1ZR7J2gqSNL025JrLaMi--NN_nbui1wuwpNvb3y-VlE8/edit)
+- **Diapositivas:** [Engineering with Gemma](https://docs.google.com/presentation/d/1JTB1pReaqPWqmGg2ydelK6VS4uPKRfswLZDCYlsB67M/edit?usp=sharing), la charla donde Rango es uno de los dos casos
 - **Enunciado:** [ENUNCIADO.md](ENUNCIADO.md)
 - **Benchmark:** [BENCHMARK.md](BENCHMARK.md) (GPU L4) · [bench/BENCHMARK-cpu.md](bench/BENCHMARK-cpu.md) (CPU)
 
