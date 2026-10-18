@@ -100,7 +100,7 @@ Con la app corriendo contra el Ollama de Cloud Run y Vertex (sin mocks), la prim
 
 ## 14. Gemini convertía requisitos en habilidades
 
-Revisando una carta real en producción apareció "manejo un nivel de inglés intermedio". La persona del ejemplo nunca dijo eso: "Inglés intermedio (deseable)" era un **requisito de la oferta**, y Gemini lo escribió como si fuera una habilidad de la candidata. Ninguna prueba lo detectaba porque no es un dato sensible, es un dato inventado. Arreglo en `letterPrompt`: los requisitos son lo que pide la empresa, no lo que la persona tiene, y no se afirman habilidades, idiomas ni certificaciones que no estén en los logros. Verificado de nuevo en producción. El mismo cambio se aplicó a la app de Luis.
+Revisando una carta real en producción apareció "manejo un nivel de inglés intermedio". La persona del ejemplo nunca dijo eso: "Inglés intermedio (deseable)" era un **requisito de la oferta**, y Gemini lo escribió como si fuera una habilidad de la candidata. Ninguna prueba lo detectaba porque no es un dato sensible, es un dato inventado. Arreglo en `letterPrompt`: los requisitos son lo que pide la empresa, no lo que la persona tiene, y no se afirman habilidades, idiomas ni certificaciones que no estén en los logros. Verificado de nuevo en producción. El mismo cambio se aplicó a la otra implementación del proyecto.
 
 ## 15. La app se llama Rango
 
